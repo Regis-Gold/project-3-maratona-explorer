@@ -1,3 +1,1 @@
-## project-3-maratona-explorer
-
-### Usando HTML5 e CSS3
+Cardápio usando HTML5 e CSS3
